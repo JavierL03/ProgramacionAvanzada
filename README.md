@@ -70,3 +70,5 @@ Notas
 Verificar de tener el archivo .env configurado correctamente.
 Se cuede comprobar los endpoints usando Postman. 
 Para detener el servidor, usa CTRL + C.
+![image](https://github.com/user-attachments/assets/142d371d-8b4e-47a7-97d3-799be804c78e)
+
